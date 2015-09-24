@@ -1,4 +1,4 @@
-var tc = require('./trapclap.js');
+var tc = require('./lib/trapclap.js');
 
 function test_hello_world() {
     var server = new tc.TrapClap();
