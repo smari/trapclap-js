@@ -1,0 +1,39 @@
+{
+  "name": "trapclap",
+  "version": "0.0.1",
+  "description": "RPC library based on Tox",
+  "keywords": [
+    "rpc",
+    "tox",
+    "toxcore"
+  ],
+  "license": "AGPL-3.0",
+  "author": {
+    "name": "Smári McCarthy",
+    "email": "smari@occrp.org"
+  },
+  "main": "./lib/trapclap.js",
+  "files": [
+    "lib",
+  ],
+  "directories": {
+    "lib": "./lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/occrp/trapclap-js.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "toxcore": "~1.2.0",
+  },
+  "devDependencies": {
+    "mocha": "~2.1.0",
+  },
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/occrp/trapclap-js/issues"
+  }
+}
