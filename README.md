@@ -46,7 +46,7 @@ for details on how it works.
 
 ## Other implementations
 
- - Python: [claptrap-python](https://github.org/occrp/claptrap-python)
+ - Python: [claptrap-python](https://github.org/smari/claptrap-python)
 
 ## Authors
 
