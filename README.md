@@ -44,10 +44,6 @@ TrapClap uses Tox as its data transmission mechanism. As a result, all peers are
 identified by Tox addresses. See [The Tox Technical FAQ](https://wiki.tox.chat/users/techfaq)
 for details on how it works.
 
-## Other implementations
-
- - Python: [claptrap-python](https://github.org/smari/claptrap-python)
-
 ## Authors
 
  - Smári McCarthy <smari@occrp.org>
